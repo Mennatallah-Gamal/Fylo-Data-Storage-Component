@@ -26,6 +26,9 @@ main {
         flex-direction: column;
     }
 }
+main h1 {
+    display: none;
+}
 main .logo-box{
     width: 300px;
     height: 200px;
