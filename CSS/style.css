@@ -179,14 +179,14 @@ main .storage .gb{
     margin-top: 10px;
     color: hsl(243, 100%, 93%);
 }
-.attribution {
+footer .attribution {
     color: hsl(243, 100%, 93%);
 }
-.attribution a {
+footer .attribution a {
     color:  hsl(6, 100%, 80%);
 }
 @media(max-width: 767px) {
-    .attribution {
+   footer .attribution {
         padding: 4px;
        font-size: 10px;
     }
